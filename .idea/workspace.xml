@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e6248af2-6635-4fca-808b-2ff1b08c6e44" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testtheory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/testng/testng.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/page/email.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testng/Actions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testng/Alert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testng/DataDriverTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testng/EmailCreated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testng/FindElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testng/Grid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testng/JSexe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testng/OpenBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testng/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testng/Select.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testng/Wait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/testng/day01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/testng/testng.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/testng/Actions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/testng/Alert.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/testng/DataDriverTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/testng/EmailCreated.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/testng/FindElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/testng/Grid.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/testng/JSexe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/testng/OpenBrowser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/testng/Operation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/testng/Select.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/testng/Wait.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/testng/day01.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iAQDZrmrT7B03kNk42MecYa1mg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/driver" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Testtheory\driver" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.DataDriverTest.logintest">
+    <configuration name="Actions.UploadFile" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Testtheory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testng" />
+      <option name="MAIN_CLASS_NAME" value="com.testng.Actions" />
+      <option name="METHOD_NAME" value="UploadFile" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataDriverTest.logintest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Testtheory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testng" />
+      <option name="MAIN_CLASS_NAME" value="com.testng.DataDriverTest" />
+      <option name="METHOD_NAME" value="logintest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmailCreated" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Testtheory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testng" />
+      <option name="MAIN_CLASS_NAME" value="com.testng.EmailCreated" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmailCreated.Register_test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Testtheory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testng" />
+      <option name="MAIN_CLASS_NAME" value="com.testng.EmailCreated" />
+      <option name="METHOD_NAME" value="Register_test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JSexe.test_JS" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Testtheory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.testng" />
+      <option name="MAIN_CLASS_NAME" value="com.testng.JSexe" />
+      <option name="METHOD_NAME" value="test_JS" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.DataDriverTest.logintest" />
+        <item itemvalue="TestNG.EmailCreated" />
+        <item itemvalue="TestNG.EmailCreated.Register_test" />
+        <item itemvalue="TestNG.JSexe.test_JS" />
+        <item itemvalue="TestNG.Actions.UploadFile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6248af2-6635-4fca-808b-2ff1b08c6e44" name="Default Changelist" comment="" />
+      <created>1601347797476</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601347797476</updated>
+      <workItem from="1601347801894" duration="9415000" />
+      <workItem from="1601429551420" duration="4638000" />
+      <workItem from="1601519149882" duration="7016000" />
+      <workItem from="1601561302802" duration="2291000" />
+      <workItem from="1601623264885" duration="5177000" />
+      <workItem from="1601691285897" duration="2089000" />
+      <workItem from="1601695966570" duration="5028000" />
+      <workItem from="1601734790820" duration="2057000" />
+      <workItem from="1601775697235" duration="19972000" />
+      <workItem from="1601863475954" duration="6118000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="393" y="51" key="#Project_Structure" timestamp="1601349215759">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="393" y="51" key="#Project_Structure/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1601349215759" />
+    <state x="1918" y="181" key="#Project_Structure/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1601348572930" />
+    <state width="1877" height="482" key="GridCell.Tab.0.bottom" timestamp="1601880975093">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="482" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1601880975093" />
+    <state width="1323" height="418" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601725518638" />
+    <state width="1877" height="482" key="GridCell.Tab.0.center" timestamp="1601880975093">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="482" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1601880975093" />
+    <state width="1323" height="418" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601725518637" />
+    <state width="1877" height="482" key="GridCell.Tab.0.left" timestamp="1601880975093">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="482" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1601880975093" />
+    <state width="1323" height="418" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601725518637" />
+    <state width="1877" height="482" key="GridCell.Tab.0.right" timestamp="1601880975093">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="482" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1601880975093" />
+    <state width="1323" height="418" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601725518638" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1601820965036">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1601820965036" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1601820965035">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1601820965035" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1601820965035">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1601820965035" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1601820965035">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1601820965035" />
+    <state x="1829" y="165" key="SettingsEditor" timestamp="1601880969387">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1829" y="165" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1601880969387" />
+    <state x="1458" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1601777636469">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1458" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1601777636469" />
+    <state x="2018" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1601863521111">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="464" y="243" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1601695979872" />
+    <state x="2018" y="347" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1601863521111" />
+    <state x="1946" y="109" width="759" height="822" key="find.popup" timestamp="1601777780654">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1946" y="109" width="759" height="822" key="find.popup/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1601777780654" />
+    <state x="1989" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1601522787971">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1989" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1601522787971" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/testng/OpenBrowser.java</url>
+          <line>36</line>
+          <properties class="com.testng.OpenBrowser" method="openBrowser1">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
