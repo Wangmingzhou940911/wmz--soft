@@ -4,6 +4,7 @@
     <list default="true" id="e6248af2-6635-4fca-808b-2ff1b08c6e44" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Testtheory.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/driver/chromedriver.exe" afterDir="false" />
@@ -193,7 +194,7 @@
       <workItem from="1601695966570" duration="5028000" />
       <workItem from="1601734790820" duration="2057000" />
       <workItem from="1601775697235" duration="19972000" />
-      <workItem from="1601863475954" duration="6118000" />
+      <workItem from="1601863475954" duration="6399000" />
     </task>
     <servers />
   </component>
